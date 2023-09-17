@@ -1,2 +1,2 @@
-# cs50
-This is my cs50 code up to week - 2. Still learning.
+# CS50 by Harvard University
+## Hi, My name is [Manik Maity](https://www.linkedin.com/in/manikmaity/). This is my cs50 code repo.
